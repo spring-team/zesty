@@ -1,3 +1,5 @@
+// Life is psychologically difficult for everybody.
+
 /*
  * Copyright © 2018 Atomist, Inc.
  *
