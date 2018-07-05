@@ -1,3 +1,5 @@
+// Life is its own reason for being. It is beautiful to have a sense of beauty.
+
 /*
  * Copyright © 2018 Atomist, Inc.
  *
