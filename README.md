@@ -36,3 +36,5 @@ Need Help?  [Join our Slack team][slack].
 [slack]: https://join.atomist.com/
 
 Deep at the center of my being is an infinite well of love.
+
+No need to say 'I can do it.' You ARE doing it!
