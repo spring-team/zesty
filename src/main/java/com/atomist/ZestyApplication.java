@@ -1,3 +1,5 @@
+// Finite games are played within boundaries. Infinite games play with boundaries.
+
 // You belong everywhere you are.
 
 // I believe in you. You can do the thing!
