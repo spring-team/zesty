@@ -1,3 +1,5 @@
+// Life is psychologically difficult for everybody.
+
 // Finite games are played within boundaries. Infinite games play with boundaries.
 
 // You belong everywhere you are.
