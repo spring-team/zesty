@@ -1,3 +1,5 @@
+// Finite games are played within boundaries. Infinite games play with boundaries.
+
 // Make new mistakes as fast as you can.
 
 // You are the delta in what you do, not the things you did in the past
