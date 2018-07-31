@@ -1,3 +1,5 @@
+// Our bodies and minds are capable of far more than our psyche will let us achieve.
+
 // Life is psychologically difficult for everybody.
 
 // Finite games are played within boundaries. Infinite games play with boundaries.
