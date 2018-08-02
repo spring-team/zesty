@@ -1,3 +1,5 @@
+// Life is its own reason for being. It is beautiful to have a sense of beauty.
+
 // Finite games are played within boundaries. Infinite games play with boundaries.
 
 // You're good enough, you're smart enough, and doggone it, people like you.
