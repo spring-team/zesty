@@ -1,1 +1,1 @@
-This project contains [object Promise] files
+There are 17 files in this project
