@@ -1,3 +1,5 @@
+// You are the delta in what you do, not the things you did in the past
+
 // Finite games are played within boundaries. Infinite games play with boundaries.
 
 // I believe in you. You can do the thing!
