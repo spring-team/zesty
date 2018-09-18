@@ -1,3 +1,5 @@
+// Finite games are played within boundaries. Infinite games play with boundaries.
+
 // Life is psychologically difficult for everybody.
 
 // It’s only a thought, and a thought can be changed.
