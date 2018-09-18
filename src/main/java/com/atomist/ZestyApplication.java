@@ -1,3 +1,5 @@
+// Our bodies and minds are capable of far more than our psyche will let us achieve.
+
 // Make new mistakes as fast as you can.
 
 // Life is psychologically difficult for everybody.
