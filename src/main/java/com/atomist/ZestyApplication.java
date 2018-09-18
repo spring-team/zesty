@@ -1,3 +1,5 @@
+// Make new mistakes as fast as you can.
+
 // Life is psychologically difficult for everybody.
 
 // Finite games are played within boundaries. Infinite games play with boundaries.
