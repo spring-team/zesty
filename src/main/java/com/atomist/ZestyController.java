@@ -33,7 +33,7 @@ class ZestyController {
 
 	@RequestMapping(method = GET, path = "/")
 	public String root() {
-		return "Spring Boot REST service running in Roseville, Served by "
+		return "Spring  Boot REST service running in Roseville, Served by "
 				+ getClass().getName();
 	}
 
