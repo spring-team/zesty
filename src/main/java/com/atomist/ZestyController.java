@@ -1,4 +1,4 @@
-// I believe in you. You can do the thing! 
+// I believe in you. You can do the thing!
 
 // No need to say 'I can do it.' You ARE doing it!
 
@@ -31,14 +31,15 @@ import static org.springframework.web.bind.annotation.RequestMethod.GET;
 @RestController
 class ZestyController {
 
-    @RequestMapping(method = GET, path = "/")
-    public String root() {
-        return "Spring Boot REST service running in Roseville, Served by " + getClass().getName();
-    }
+	@RequestMapping(method = GET, path = "/")
+	public String root() {
+		return "Spring Boot REST service running in Roseville, Served by "
+				+ getClass().getName();
+	}
 
-    @RequestMapping(method = GET, path = "hello/{name}")
-    public String person(@PathVariable String name) {
-        return "Hellox " + name + "!";
-    }
+	@RequestMapping(method = GET, path = "hello/{name}")
+	public String person(@PathVariable String name) {
+		return "Hellox " + name + "!";
+	}
 
 }
