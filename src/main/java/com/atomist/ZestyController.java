@@ -1,4 +1,4 @@
-// I believe in you. You can do the thing!
+// I believe in you. You can do the thing! 
 
 // No need to say 'I can do it.' You ARE doing it!
 
@@ -38,7 +38,7 @@ class ZestyController {
 
     @RequestMapping(method = GET, path = "hello/{name}")
     public String person(@PathVariable String name) {
-        return "Hello " + name + "!";
+        return "Hellox " + name + "!";
     }
 
 }
