@@ -1,2 +1,4 @@
 atomist:
   enabled: false
+raven:
+    dsn: '1234'
